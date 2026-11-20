@@ -1,0 +1,5 @@
+{
+  "name": "claude-image-band",
+  "owner": { "name": "Snoe0" },
+  "plugins": [{ "name": "image-band", "source": "./" }]
+}

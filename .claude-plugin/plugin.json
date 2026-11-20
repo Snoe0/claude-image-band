@@ -1,0 +1,1 @@
+{ "name": "image-band", "version": "0.1.0", "description": "Shows images Claude reads or prints as thumbnails above the prompt, with a sidebar to view them large", "types": "./types/index.d.ts" }
